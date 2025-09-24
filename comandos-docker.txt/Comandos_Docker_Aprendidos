@@ -11,7 +11,7 @@ docker rmi <imagem>       # Remove uma imagem
 docker rm <container>     # Remove um container
 
 ## Primeiro Teste Realizado
-Data: [18/09/2025]
+Data: [Data Atual]
 Comando executado: docker run hello-world
 Resultado: Container executou com sucesso!
 
